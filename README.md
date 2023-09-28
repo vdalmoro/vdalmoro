@@ -6,7 +6,7 @@
 - 📫 How to reach me: vinimegasxlr@gmail.com
 - ⚡ Fun fact: Pizza expert!
 
-"Be the change you want to see in the world"
+<center> "Be the change you want to see in the world" </center>
 
 <p align="center">
   <a href="https://skillicons.dev">
