@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AngelLira as QA
+- 🔭 I’m currently working on ONEpay as QA
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Games and NBA
 - 📫 How to reach me: vinimegasxlr@gmail.com
