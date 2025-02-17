@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ONEpay as QA
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on FBM as QA Engineer
+- 🌱 I’m currently learning Cypress
 - 💬 Ask me about Games and NBA
 - 📫 How to reach me: vinimegasxlr@gmail.com
 - ⚡ Fun fact: Pizza expert!
